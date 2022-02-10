@@ -23,7 +23,7 @@
 
          System.setOut(stdout);
 
-         String expected="A havi eredmeny 1000 forint.\r\n";
+         String expected="A havi eredmeny 1000 forint."+newLine;
          String actual=byteArrayOutputStream.toString();
 
          int result=expected.compareTo(actual);
