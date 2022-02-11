@@ -12,5 +12,5 @@ int result=
 Határozza meg a result változó értékét képlettel!
 A változó értékét úgy kell meghatározni, hogy értékének kiírásakor megjelenjen a következő üzenet:
 ```
-A havi eredmeny 1000 forint.
+A havi eredmeny 1000 forint.<újsor>
 ```
